@@ -94,7 +94,7 @@
         android:layout_height="43dp"
         android:hint="Повторение пароля"
         android:textColor="@color/white"
-        android:paddingStart="15dp"
+        android:paddingStart="14dp"
         android:background="@drawable/button_round"
         android:inputType="textPassword"
         android:layout_marginHorizontal="10dp"
